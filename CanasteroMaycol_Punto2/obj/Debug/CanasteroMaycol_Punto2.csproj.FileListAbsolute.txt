@@ -1,0 +1,7 @@
+C:\Users\mayko\Desktop\CanasteroMaycol_Punto2\bin\Debug\CanasteroMaycol_Punto2.exe.config
+C:\Users\mayko\Desktop\CanasteroMaycol_Punto2\bin\Debug\CanasteroMaycol_Punto2.exe
+C:\Users\mayko\Desktop\CanasteroMaycol_Punto2\bin\Debug\CanasteroMaycol_Punto2.pdb
+C:\Users\mayko\Desktop\CanasteroMaycol_Punto2\obj\Debug\CanasteroMaycol_Punto2.csproj.AssemblyReference.cache
+C:\Users\mayko\Desktop\CanasteroMaycol_Punto2\obj\Debug\CanasteroMaycol_Punto2.csproj.CoreCompileInputs.cache
+C:\Users\mayko\Desktop\CanasteroMaycol_Punto2\obj\Debug\CanasteroMaycol_Punto2.exe
+C:\Users\mayko\Desktop\CanasteroMaycol_Punto2\obj\Debug\CanasteroMaycol_Punto2.pdb
